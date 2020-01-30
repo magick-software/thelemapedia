@@ -1,0 +1,16 @@
+{
+  "name": "thelemapedia",
+  "version": "1.0.0",
+  "description": "The correspondences from [thelemapedia.org](http://www.thelemapedia.org/) in JS form.",
+  "main": "index.js",
+  "dependencies": {
+    "ramda": "^0.26.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "node build.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
